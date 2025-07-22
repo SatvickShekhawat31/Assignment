@@ -170,16 +170,7 @@ docker compose up --build --detach
 
 **Satvick Shekhawat**
 
-* 📧 [manushekhawat3@gmail.com](mailto:manushekhawat3@gmail.com)
+* 📧 [shekhawatsatvick@gmail.com](mailto:shekhawatsatvick@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/satvick-shekhawat-01450925a/)
-* 📍 Jhujhailla, Bijnor, Uttar Pradesh, India
-
----
-
-## 📄 License
-
-This project is provided for internship assignment purposes only. Not intended for commercial use.
-
-````
 
 ---
